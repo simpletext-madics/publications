@@ -8,3 +8,5 @@ Liana Ermakova, Patrice Bellot, Pavel Braslavski, Jaap Kamps, Josiane Mothe, Dia
 Liana Ermakova, Josiane Mothe, Eric Sanjuan [[PDF]](http://ceur-ws.org/Vol-2936/paper-200.pdf) [[bibtex]](4.bib)
 
 Sílvia Araújo, Radia Hannachi [[PDF]](http://ceur-ws.org/Vol-2936/paper-201.pdf) [[bibtex]](5.bib)
+
+Malek Hajjem, Eric Sanjuan [[PDF]](http://ceur-ws.org/Vol-2936/paper-202.pdf) [[bibtex]](6.bib)
