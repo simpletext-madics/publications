@@ -12,3 +12,5 @@ Sílvia Araújo, Radia Hannachi [[PDF]](http://ceur-ws.org/Vol-2936/paper-201.pd
 Malek Hajjem, Eric Sanjuan [[PDF]](http://ceur-ws.org/Vol-2936/paper-202.pdf) [[bibtex]](6.bib)
 
 Irina Ovchinnikova, Diana Nurbakova, Liana Ermakova [[PDF]](http://ceur-ws.org/Vol-2936/paper-203.pdf) [[bibtex]](7.bib)
+
+Wei Xu [[PDF]](http://ceur-ws.org/Vol-2936/paper-204.pdf) [[bibtex]](8.bib)
