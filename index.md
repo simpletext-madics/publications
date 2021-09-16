@@ -5,3 +5,4 @@ Liana Ermakova, Patrice Bellot, Pavel Braslavski, Jaap Kamps, Josiane Mothe, et 
 
 Liana Ermakova, Patrice Bellot, Pavel Braslavski, Jaap Kamps, Josiane Mothe, Diana Nurbakova, Irina Ovchinnikova, Eric Sanjuan [[PDF]](http://ceur-ws.org/Vol-2936/paper-199.pdf) [[bibtex]](3.bib)
 
+Liana Ermakova, Josiane Mothe, Eric Sanjuan [[PDF]](http://ceur-ws.org/Vol-2936/paper-200.pdf) [[bibtex]](4.bib)
