@@ -10,3 +10,5 @@ Liana Ermakova, Josiane Mothe, Eric Sanjuan [[PDF]](http://ceur-ws.org/Vol-2936/
 Sílvia Araújo, Radia Hannachi [[PDF]](http://ceur-ws.org/Vol-2936/paper-201.pdf) [[bibtex]](5.bib)
 
 Malek Hajjem, Eric Sanjuan [[PDF]](http://ceur-ws.org/Vol-2936/paper-202.pdf) [[bibtex]](6.bib)
+
+Irina Ovchinnikova, Diana Nurbakova, Liana Ermakova [[PDF]](http://ceur-ws.org/Vol-2936/paper-203.pdf) [[bibtex]](7.bib)
