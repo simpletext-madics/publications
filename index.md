@@ -21,7 +21,7 @@
 **Rémi Cardon, Natalia Grabar.** *Recherche de phrases parallèles à partir de corpus comparables pour la simplification de textes médicaux en français.* 
  (UMR 8163 STL – CNRS / Université de Lille, F-59000 Lille, France) - invited speaker [[PDF]](http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=67) [[bibtex]](../2021/inforsid/bibtex/Simpletext-Cardon.bib)
 
-**Mike Unwalla.** *Controlled language for text simplification: Concepts and implementation*. (TechScribe, Sheffield, UK) - industrial talk [[PDF]]( http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=81) [[bibtex]](../2021/inforsid/bibtex/Simpletext-Unwalla.bib)
+**Mike Unwalla.** *Controlled language for text simplification: Concepts and implementation*. (TechScribe, Sheffield, UK) - industrial talk [[PDF]]( http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=81) [[bibtex]](../2021/inforsid/bibtex/Simpletext-Unwalla1.bib)
 
 **Sílvia Araújo, Radia Hannachi.** *Pour une démarche de communication multimodale de données scientifiques : de la recherche documentaire à l'infographie via le mind mapping*. (Centre d’Études Humaines - CEHUM, Université du Minho, Braga, Portugal / HCTI EA-4249, Université de Bretagne Sud, Lorient, France) [[PDF]](http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=70) [[bibtex]](../2021/inforsid/bibtex/Simpletext-Araujo.bib)
 
