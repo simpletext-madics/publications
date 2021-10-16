@@ -20,7 +20,7 @@
 
 **Mike Unwalla.** *Controlled language for text simplification: Concepts and implementation*, *In Actes des Ateliers d’INFORSID - Dessinons ensemble le futur des systèmes d’information*, (TechScribe, Sheffield, UK) - industrial talk [[PDF]]( http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=81) [[bibtex]](../2021/inforsid/bibtex/Simpletext-Unwalla1.bib)
 
-**Sílvia Araújo, Radia Hannachi.** *Pour une démarche de communication multimodale de données scientifiques : de la recherche documentaire à l'infographie via le mind mapping*. (Centre d’Études Humaines - CEHUM, Université du Minho, Braga, Portugal / HCTI EA-4249, Université de Bretagne Sud, Lorient, France) [[PDF]](http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=70) [[bibtex]](../2021/inforsid/bibtex/Simpletext-Araujo.bib)
+**Sílvia Araújo, Radia Hannachi.** *Pour une démarche de communication multimodale de données scientifiques : de la recherche documentaire à l'infographie via le mind mapping*, *In Actes des Ateliers d’INFORSID - Dessinons ensemble le futur des systèmes d’information*, (Centre d’Études Humaines - CEHUM, Université du Minho, Braga, Portugal / HCTI EA-4249, Université de Bretagne Sud, Lorient, France) [[PDF]](http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=70) [[bibtex]](../2021/inforsid/bibtex/Simpletext-Araujo.bib)
 
 **Helen Mccombie.** *Could automatic text simplification assist correction-revision of scientific texts written by non-native English speakers?* (Bureau de Traduction de l'Université, Université de Brest, France) [[PDF]](http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=86) [[bibtex]](../2021/inforsid/bibtex/Simpletext-McCombie.bib)
 
