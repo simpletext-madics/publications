@@ -6,9 +6,7 @@
 
 **Liana Ermakova, Patrice Bellot, Pavel Braslavski, Jaap Kamps, Josiane Mothe, et al..** *Overview of SimpleText CLEF 2021 Workshop and Pilot Tasks*. 12th Conference and Labs of the Evaluation Forum (CLEF 2021), Sep 2021, Bucharest (on line), Romania. pp.2212 - 2227. [[PDF]](https://hal.archives-ouvertes.fr/hal-03328174/document) [[bibtex]](overview.bib)
 
-**Liana Ermakova, Patrice Bellot, Pavel Braslavski, Jaap Kamps, Josiane Mothe, Diana Nurbakova, Irina Ovchinnikova, Eric Sanjuan.** *Overview of SimpleText CLEF 2021 Workshop and Pilot Tasks* [[PDF]](http://ceur-ws.org/Vol-2936/paper-199.pdf) [[bibtex]](3.bib)
-
-**Liana Ermakova, Josiane Mothe, Eric Sanjuan.** *Overview of the SimpleText Workshop at INFORSID-2021: Scientific Text Simplification and Popularization* [[PDF]](http://ceur-ws.org/Vol-2936/paper-200.pdf) [[bibtex]](4.bib)
+**Liana Ermakova, Josiane Mothe, Eric Sanjuan.** *Overview of the SimpleText Workshop at INFORSID-2021: Scientific Text Simplification and Popularization* [[PDF]](http://ceur-ws.org/Vol-2936/paper-200.pdf) [[bibtex]](9.bib)
 
 **Sílvia Araújo, Radia Hannachi.** *Multimodal science communication: from documentary research to infographic via mind mapping* [[PDF]](http://ceur-ws.org/Vol-2936/paper-201.pdf) [[bibtex]](5.bib)
 
